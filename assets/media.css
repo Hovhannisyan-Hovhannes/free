@@ -1,0 +1,13 @@
+
+@media (max-width: 576px) {
+    .header-block,.footer{
+      flex-direction: column;
+    
+    }
+    .paint,.box{
+      width: 100%;
+    }
+    
+    
+    }
+    
